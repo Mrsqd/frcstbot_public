@@ -29,6 +29,9 @@ Speed units:
 
 All data is supplied by [OpenWeatherMap.org](https://openweathermap.org/).
 
+## Demo
+![](Frcstbot_demo.gif)
+
 ## How to
  - [get your Telegram API token](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
  - [get your OpenWeather API key](https://openweathermap.org/appid)
